@@ -31,3 +31,7 @@ testem.log
 #System Files
 .DS_Store
 Thumbs.db
+
+#app module
+
+/src/app/app.module.ts

@@ -7,10 +7,11 @@ import { AngularFireModule } from 'angularfire2';
 import { AppComponent } from './app.component';
 
 export const firebaseConfig = {
-  apiKey: '',
-  authDomain: '',
-  databaseURL: '',
-  storageBucket: ''
+ 
+  apiKey:'',
+  authDomain:'',
+  databaseURL:'',
+  storageBucket:''
 };
 
 @NgModule({
