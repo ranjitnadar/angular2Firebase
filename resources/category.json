@@ -1,0 +1,24 @@
+[{
+	"category":"IT",
+	"city":"Mumbai",
+	"company":"",
+	"description":"Eweb Developer",
+	"email":"nranjithnadar@gmail.com",
+	"phone":"9821318892",
+	"state":"maharashtra",
+	"stree_address":"vidyavihar",
+	"years_in_business":6,
+	"zipcode":"400086"	
+},
+{
+	"category":"IT",
+	"city":"Mumbai",
+	"company":"Ewebcore",
+	"description":"Eweb Developer",
+	"email":"satishjunghare@gmail.com",
+	"phone":"9820304050",
+	"state":"maharashtra",
+	"stree_address":"Turbhe",
+	"years_in_business":4,
+	"zipcode":"400703"	
+}]
